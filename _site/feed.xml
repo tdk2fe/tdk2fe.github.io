@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
+    <title>Smokebreak Linux</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 22 May 2015 17:38:05 -0500</pubDate>
-    <lastBuildDate>Fri, 22 May 2015 17:38:05 -0500</lastBuildDate>
+    <link>http://www.sagelogix.com/</link>
+    <atom:link href="http://www.sagelogix.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 27 May 2015 09:24:36 -0500</pubDate>
+    <lastBuildDate>Wed, 27 May 2015 09:24:36 -0500</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -28,26 +28,13 @@
 
 </description>
         <pubDate>Fri, 22 May 2015 12:35:50 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/05/22/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/05/22/welcome-to-jekyll.html</guid>
+        <link>http://www.sagelogix.com/jekyll/update/2015/05/22/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://www.sagelogix.com/jekyll/update/2015/05/22/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
         
         <category>update</category>
-        
-      </item>
-    
-      <item>
-        <title>Test1</title>
-        <description>&lt;h1 id=&quot;header&quot;&gt;Header&lt;/h1&gt;
-
-&lt;p&gt;some testing&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 May 2015 00:00:00 -0500</pubDate>
-        <link>http://yourdomain.com/2015/05/22/test1.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/2015/05/22/test1.html</guid>
-        
         
       </item>
     

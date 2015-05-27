@@ -1,0 +1,248 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"network",
+				"network-scripts"
+			],
+			[
+				"xhr",
+				"xhr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 172.0,
+		"last_filter": "mark",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"select ne",
+				"Bookmarks: Select Next"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gravkill/Blog"
+	],
+	"file_history":
+	[
+		"/home/gravkill/Documents/Texas Bio/ovmstat.py",
+		"/home/gravkill/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/gravkill/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/gravkill/.config/openbox/autostart.sh",
+		"/home/gravkill/Documents/Delta Dental/dd_ldap_info.mdown",
+		"/mnt/MSONIC_EXTARRAY/Virtualization/Vagrants/testbox/changehost.sh",
+		"/home/gravkill/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/gravkill/scratch/brightness.py",
+		"/home/gravkill/scratch/brightnewss.py",
+		"/home/gravkill/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/gravkill/Documents/Texas Bio/sagetbio011.vm.cfg",
+		"/home/gravkill/Documents/Texas Bio/sagetbio009.vm.cfg",
+		"/home/gravkill/Documents/Texas Bio/sagetbio006.vm.cfg",
+		"/run/user/1001/gvfs/sftp:host=sageops02.sagelogix.com,user=root/var/www/html/tbportal/css/bootstrap-theme.css",
+		"/run/user/1001/gvfs/sftp:host=sageops02.sagelogix.com,user=root/var/www/html/tbportal/test.html",
+		"/run/user/1001/gvfs/sftp:host=sageops02.sagelogix.com,user=root/var/www/html/tbportal/css/bootstrap-theme.css.map",
+		"/home/gravkill/Documents/Tbio Portal/js/custom.js",
+		"/home/gravkill/Documents/Tbio Portal/js/jquery.min.js",
+		"/home/gravkill/Documents/Tbio Portal/js/jquery.js",
+		"/home/gravkill/Documents/Tbio Portal/test.html",
+		"/run/user/1001/gvfs/sftp:host=sageops02.sagelogix.com,user=root/var/www/html/tbportal/hosts",
+		"/home/gravkill/Documents/Tbio Portal/css/bootstrap.css",
+		"/home/gravkill/Documents/testportal/css/bootstrap.css",
+		"/home/gravkill/Documents/testportal/project/hello.py",
+		"/home/gravkill/Documents/Tbio Portal/css/bootstrap.min.css",
+		"/home/gravkill/.config/openbox/rc.xml",
+		"/home/gravkill/.config/openbox/menu.xml"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getCurrentBrightness",
+			"monitor",
+			"getActive",
+			"shift+alt",
+			"add",
+			"select",
+			"h2",
+			"col-lg",
+			"fixed-top",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h3",
+			"col-md"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "blog.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
